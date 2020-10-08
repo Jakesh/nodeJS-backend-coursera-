@@ -1,0 +1,9 @@
+install all dependencies 
+>> npm install --ignore-engines
+
+running the nodeJS server
+>>npm start
+
+running MongoDB 
+>> git bash to the folder "Mongodb" and run the following command
+>> mongod --dbpath=datanew --bind_ip 127.0.0.1
